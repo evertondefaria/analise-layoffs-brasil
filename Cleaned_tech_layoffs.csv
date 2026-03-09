@@ -1,0 +1,49 @@
+Date_layoffs,Company,City,Country,Laid_Off,Percentage,Company_Size_before_Layoffs,Company_Size_after_layoffs,Money_Raised_in__mil,Industry,Year
+08/08/22,Loggi,Sao Paulo,Brazil,5000,150,33330,28330,5070,Logistics,2022
+03/04/20,Gympass,Sao Paulo,Brazil,4670,330,14150,9480,3000,Fitness,2020
+05/07/22,Loft,Sao Paulo,Brazil,3840,120,32000,28160,7880,Real Estate,2022
+01/03/23,iFood,Sao Paulo,Brazil,3550,60,59170,55620,21000,Food,2023
+03/03/23,Loft,Sao Paulo,Brazil,3400,150,22670,19270,7880,Real Estate,2023
+21/06/22,Ebanx,Curitiba,Brazil,3400,200,17000,13600,4600,Finance,2022
+07/12/22,Loft,Sao Paulo,Brazil,3120,120,26000,22880,7880,Real Estate,2022
+28/11/22,Wildlife Studios,Sao Paulo,Brazil,3000,200,15000,12000,2600,Consumer,2022
+06/02/23,Loggi,Sao Paulo,Brazil,3000,70,42860,39860,5070,Logistics,2023
+20/04/22,Facily,Sao Paulo,Brazil,2600,300,8670,6070,5020,Retail,2022
+20/10/22,Hotmart,Belo Horizonte,Brazil,2270,120,18920,16650,1270,Marketing,2022
+15/02/23,Neon,Sao Paulo,Brazil,2100,90,23330,21230,7200,Finance,2023
+26/05/22,VTEX,Sao Paulo,Brazil,2000,130,15380,13380,3650,Retail,2022
+07/11/22,Dock,Sao Paulo,Brazil,1900,120,15830,13930,2800,Finance,2022
+19/04/22,QuintoAndar,Sao Paulo,Brazil,1600,40,40000,38400,7550,Real Estate,2022
+08/12/22,Buser,Sao Paulo,Brazil,1600,300,5330,3730,1380,Transportation,2022
+17/04/20,ContaAzul,Joinville,Brazil,1400,350,4000,2600,370,Education,2020
+09/04/20,Omie,Sao Paulo,Brazil,1360,310,4390,3030,260,Finance,2020
+09/06/23,Trybe,Sao Paulo,Brazil,1280,350,3660,2380,400,Education,2023
+09/12/22,Alice,Sao Paulo,Brazil,1130,160,7060,5930,1740,Healthcare,2022
+12/01/23,Pier,Sao Paulo,Brazil,1110,390,2850,1740,420,Finance,2023
+17/01/23,Unico,Sao Paulo,Brazil,1100,100,11000,9900,3360,Other,2023
+01/09/22,2TM,Sao Paulo,Brazil,1000,150,6670,5670,2500,Crypto,2022
+16/02/22,Liv Up,Sao Paulo,Brazil,1000,150,6670,5670,1180,Food,2022
+06/04/20,Rock Content,Belo Horizonte,Brazil,1000,200,5000,4000,10,Marketing,2020
+30/05/22,SumUp,Sao Paulo,Brazil,1000,30,33330,32330,500,Finance,2022
+16/05/22,Zak,Sao Paulo,Brazil,1000,400,2500,1500,290,Food,2022
+01/06/22,2TM,Sao Paulo,Brazil,900,120,7500,6600,2500,Crypto,2022
+17/04/20,QuintoAndar,Sao Paulo,Brazil,880,80,11000,10120,3350,Real Estate,2020
+14/06/22,Sami,Sao Paulo,Brazil,750,150,5000,4250,360,Healthcare,2022
+20/09/22,99,Sao Paulo,Brazil,750,20,37500,36750,2440,Transportation,2024
+13/04/20,Neon,Sao Paulo,Brazil,700,100,7000,6300,1200,Finance,2020
+13/07/22,Involves,Florianopolis,Brazil,700,180,3890,3190,230,Retail,2022
+27/05/20,Ebanx,Curitiba,Brazil,620,80,7750,7130,300,Finance,2020
+09/08/22,MadeiraMadeira,Curitiba,Brazil,600,30,20000,19400,3380,Retail,2022
+10/06/22,Sanar,Sao Paulo,Brazil,600,200,3000,2400,110,Healthcare,2022
+01/08/22,Hash,Sao Paulo,Brazil,580,500,1160,580,580,Finance,2022
+02/08/23,Gupy,Sao Paulo,Brazil,580,80,7250,6670,1050,HR,2023
+13/05/20,Mercos,Joinville,Brazil,510,400,1280,770,20,Sales,2020
+24/10/22,Unico,Sao Paulo,Brazil,500,40,12500,12000,3360,Other,2022
+10/08/22,Trybe,Sao Paulo,Brazil,470,100,4700,4230,400,Education,2022
+17/04/20,Loft,Sao Paulo,Brazil,470,100,4700,4230,2630,Real Estate,2020
+20/04/20,Movidesk,Blumenau,Brazil,330,250,1320,990,10,Support,2020
+20/01/23,Enjoei,Sao Paulo,Brazil,310,100,3100,2790,140,Retail,2023
+22/07/22,Quanto,Sao Paulo,Brazil,280,220,1270,990,150,Finance,2022
+08/04/20,Kenoby,Sao Paulo,Brazil,180,160,1130,950,230,HR,2020
+08/04/20,GetNinjas,Sao Paulo,Brazil,110,100,1100,990,160,Consumer,2020
+24/04/20,TutorMundi,Sao Paulo,Brazil,40,1000,40,0,20,Education,2020
